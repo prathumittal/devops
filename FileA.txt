@@ -1,2 +1,3 @@
 "This is file A" 
 Added another line to this file to make a change
+Added another line to this file now it is pushed to remote git as well --- version 2
