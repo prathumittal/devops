@@ -1,1 +1,2 @@
 "This is File B" 
+Adding another line in file b - version 1
